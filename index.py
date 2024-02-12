@@ -14,7 +14,7 @@ import os
 token = 'MTIwNjYwNjM1MjM0NDk0MDU2NQ.GZH9tj.42Aqx8qgIdU_FkTZwKysFQEsK1VzAEGB80sHCM'
 
 # .env dosyasını yükleyin
-#load_dotenv()
+# load_dotenv()
 
 # Asenkron işlemleri desteklemek için nest_asyncio'yu aktifleştir
 nest_asyncio.apply()
